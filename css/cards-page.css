@@ -49,21 +49,23 @@ body {
 
 .answers-container {
     display: flex;
-    justify-content: center;
+    align-items: center;
     flex-direction: column;
     margin-top: 50px;
     gap: 10px;
-    margin-left: 25px;
+    margin-left: auto;
 }
 
 .answer {
     font-size: 25px;
-    width: 650px;
+    position: relative;
+    width: 70%;
     height: 50px;
     border-radius: 3px;
     text-align: center;
     background-color: #fff;
     color: black;
+    line-height: 50px;
 }
 
 .answer:hover {
