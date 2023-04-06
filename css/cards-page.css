@@ -17,7 +17,7 @@ body {
 }
 
 .card {
-    width: 700px;
+    width: 600px;
     height: 400px;
     color: #fff;
     border-radius: 20px;
@@ -73,8 +73,8 @@ body {
 }
 
 .confirm-button {
-    width: 300px;
-    height: 50px;
+    width: 250px;
+    height: 40px;
     border: none;
     border-radius: 10px;
     color: #fff;
