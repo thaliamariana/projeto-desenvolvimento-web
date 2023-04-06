@@ -52,7 +52,7 @@ body {
     align-items: center;
     flex-direction: column;
     margin-top: 50px;
-    gap: 10px;
+    gap: 20px;
     margin-left: auto;
 }
 
@@ -61,10 +61,10 @@ body {
     position: relative;
     width: 70%;
     height: 50px;
-    border-radius: 3px;
+    border-radius: 20px;
     text-align: center;
     background-color: #fff;
-    color: black;
+    color: rgb(29, 28, 28);
     line-height: 50px;
 }
 
